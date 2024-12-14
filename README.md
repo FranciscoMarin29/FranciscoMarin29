@@ -8,6 +8,7 @@
 </div>
 
 ---
+
  <div id="header" align="left">
    
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FranciscoMarin29.Francisco&color=00cf00" alt=""/>
@@ -15,7 +16,9 @@
   Hola soy Francisco. ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 ---
+
  <div id="header" align="left">
 
 ### :man_technologist: Sobre mí :
